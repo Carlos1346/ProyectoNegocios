@@ -1,0 +1,43 @@
+/* Estilo general del cuerpo de la página */
+body {
+    background-color: #f0f0f0; /* Color de fondo pastel */
+    font-family: Arial, sans-serif;
+    color: #333; /* Color de texto principal */
+}
+
+/* Estilo del encabezado de la página */
+.navbar {
+    background-color: #3498db; /* Azul pastel para la barra de navegación */
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #333; /* Texto en la barra de navegación en blanco */
+}
+
+/* Estilo del carousel */
+.carousel-item {
+    background-color: #fff; /* Fondo blanco para los elementos del carrusel */
+}
+
+/* Estilo de los títulos */
+h2 {
+    color: #333; /* Color de texto principal */
+}
+
+/* Estilo del footer */
+footer {
+    background-color: #333; /* Fondo negro para el footer */
+}
+
+footer a {
+    color: #fff; /* Enlaces en el footer en blanco */
+}
+
+/* Estilo de los enlaces en el cuerpo de la página */
+a {
+    color: #3498db; /* Color azul pastel para enlaces */
+}
+
+a:hover {
+    color: #2980b9; /* Color azul pastel más oscuro al pasar el ratón */
+}
